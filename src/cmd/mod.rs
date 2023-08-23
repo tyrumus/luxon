@@ -1,0 +1,14 @@
+pub mod add;
+pub mod apply;
+pub mod cd;
+pub mod completion;
+pub mod diff;
+pub mod exectemp;
+pub mod init;
+pub mod install;
+pub mod managed;
+pub mod pull;
+pub mod rm;
+pub mod sshremote;
+pub mod sync;
+pub mod unmanaged;
